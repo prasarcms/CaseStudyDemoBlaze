@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T10:41:52 IST" name="Default suite" finished-at="2023-05-17T10:42:44 IST" duration-ms="51941">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T10:41:52 IST" name="Default test" finished-at="2023-05-17T10:42:44 IST" duration-ms="51941">
+      <class name="testScripts.PlaceOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.PlaceOrderTest@4d5650ae]" started-at="2023-05-17T10:41:52 IST" name="setup" finished-at="2023-05-17T10:41:59 IST" duration-ms="6850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addItemsToCartTest()[pri:1, instance:testScripts.PlaceOrderTest@4d5650ae]" started-at="2023-05-17T10:41:59 IST" name="addItemsToCartTest" finished-at="2023-05-17T10:42:18 IST" duration-ms="19222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCartTest -->
+        <test-method signature="deleteFromCartTest()[pri:2, instance:testScripts.PlaceOrderTest@4d5650ae]" started-at="2023-05-17T10:42:18 IST" name="deleteFromCartTest" finished-at="2023-05-17T10:42:26 IST" duration-ms="7735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteFromCartTest -->
+        <test-method signature="PlacingOrderTest()[pri:3, instance:testScripts.PlaceOrderTest@4d5650ae]" started-at="2023-05-17T10:42:26 IST" name="PlacingOrderTest" finished-at="2023-05-17T10:42:43 IST" duration-ms="17599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlacingOrderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.PlaceOrderTest@4d5650ae]" started-at="2023-05-17T10:42:43 IST" name="tearDown" finished-at="2023-05-17T10:42:44 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
